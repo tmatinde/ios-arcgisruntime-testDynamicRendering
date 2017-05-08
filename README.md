@@ -1,1 +1,1 @@
-Simple Project to test GraphicsLayer Dynamic Mode
+Simple Project to test ArcGIS GraphicsLayer Dynamic Mode
